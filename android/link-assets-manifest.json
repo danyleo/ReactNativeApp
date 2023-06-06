@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/app/assets/fonts/brandon/BrandonText-Bold.ttf",
+      "sha1": "1286205feb9bc0af17487a6a2e280071b16445af"
+    },
+    {
+      "path": "src/app/assets/fonts/brandon/BrandonText-Medium.ttf",
+      "sha1": "0e888011090bd463c8d660c9de33e634dfbecf0e"
+    },
+    {
+      "path": "src/app/assets/fonts/brandon/BrandonText-Regular.ttf",
+      "sha1": "1acfa3841c8c2b2d9ed35a6c79321a7b793599eb"
+    },
+    {
+      "path": "src/app/assets/fonts/roboto/Roboto-Bold.ttf",
+      "sha1": "0ce37ced9c5fcac9bdc452a432c1258870ba4677"
+    },
+    {
+      "path": "src/app/assets/fonts/roboto/Roboto-Light.ttf",
+      "sha1": "73a2bb2d6e591a90ffb4ed118a3989fb17b54c7b"
+    },
+    {
+      "path": "src/app/assets/fonts/roboto/Roboto-Medium.ttf",
+      "sha1": "5f16f4d6dbb4a4f12d8ae96488ac209bb49762a5"
+    },
+    {
+      "path": "src/app/assets/fonts/roboto/Roboto-Regular.ttf",
+      "sha1": "dd1b1db13ff1f72138c134c62f38fef83749f36a"
+    }
+  ]
+}

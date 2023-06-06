@@ -1,9 +1,10 @@
 import {createSlice} from '@reduxjs/toolkit';
+import {VENUES} from '../app/config/mock-data';
 
 const venuesSlice = createSlice({
   name: 'venues',
   initialState: {
-    venues: [],
+    venues: VENUES,
   },
   reducers: {
     setVenues(state, action) {
